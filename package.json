@@ -1,6 +1,6 @@
 {
   "name": "console-prod",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Hide console logs in production",
   "main": "dist/index.js",
   "types": "types/global.d.ts",
