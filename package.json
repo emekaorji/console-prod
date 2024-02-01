@@ -33,5 +33,14 @@
     "@types/node": "^20.11.15",
     "semantic-release": "^23.0.0",
     "typescript": "^5.3.3"
+  },
+  "release": {
+    "branches": [
+      "main"
+    ],
+    "plugins": [
+      "@semantic-release/npm",
+      "@semantic-release/github"
+    ]
   }
 }
