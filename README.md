@@ -63,13 +63,13 @@ In a server environment, console methods are not affected and function just as t
 #### console: Console
 #### console.prod: Console
 
-[npm-img]: https://img.shields.io/npm/v/use-store-state
-[npm-url]: https://www.npmjs.com/package/use-store-state
-[build-img]: https://github.com/emekaorji/use-store-state/actions/workflows/release.yml/badge.svg
-[build-url]: https://github.com/emekaorji/use-store-state/actions/workflows/release.yml
-[downloads-img]: https://img.shields.io/npm/dt/use-store-state
-[downloads-url]: https://www.npmtrends.com/use-store-state
-[issues-img]: https://img.shields.io/github/issues/emekaorji/use-store-state
-[issues-url]: https://github.com/emekaorji/use-store-state/issues
-[bundlephobia-img]: https://flat.badgen.net/bundlephobia/minzip/use-store-state
-[bundlephobia-url]: https://bundlephobia.com/package/use-store-state
+[npm-img]: https://img.shields.io/npm/v/console-prod
+[npm-url]: https://www.npmjs.com/package/console-prod
+[build-img]: https://github.com/emekaorji/console-prod/actions/workflows/release.yml/badge.svg
+[build-url]: https://github.com/emekaorji/console-prod/actions/workflows/release.yml
+[downloads-img]: https://img.shields.io/npm/dt/console-prod
+[downloads-url]: https://www.npmtrends.com/console-prod
+[issues-img]: https://img.shields.io/github/issues/emekaorji/console-prod
+[issues-url]: https://github.com/emekaorji/console-prod/issues
+[bundlephobia-img]: https://flat.badgen.net/bundlephobia/minzip/console-prod
+[bundlephobia-url]: https://bundlephobia.com/package/console-prod
