@@ -23,7 +23,11 @@
     "NODE_ENV",
     "environment"
   ],
-  "author": "Emeka Orji",
+  "author": {
+    "name": "Emeka Orji",
+    "email": "emekapraiseo@gmail.com",
+    "url": "https://github.com/emekaorji"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/emekaorji/console-prod/issues"
